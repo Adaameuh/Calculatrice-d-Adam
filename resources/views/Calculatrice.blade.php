@@ -6,7 +6,7 @@
     <title>Calculatrice</title>
     <style>
         body {
-            font-family: 'Calibri';
+            font-family: 'Calibri' sans-serif;
             text-align: center;
             margin-top: 50px;
         }
